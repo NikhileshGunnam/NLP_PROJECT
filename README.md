@@ -5,13 +5,11 @@ Date: 05/03/2024
 
 Project Title: Sentiment Analysis on the Syrian-CivilWar Conflict using Reddit Data
 
-The source code files are kaggle notebook files, most of the installations will be carried out during execution. I used Kaggle to run and code the project.
+The majority of the setup will be completed while the code is being executed; the source code files are Kaggle notebook files. To run and code the project, I utilized Kaggle.
 
-The code files were named as follows: 1) reddit-api-script.ipynb which is the source code to extract data using reddit API 2) sentiment-analysis-on-Syrian-CivilWar-reddit.ipynb -> This is the source code, where we import and do sentiment analysis on the data. The notebook contains all the results and these were documented in the report as well. 
+The following is the name of the code files: 1) Reddit-api-script.ipynb, the source code for the Reddit API data extraction 2) sentiment-analysis-on-reddit.ipynb/Syrian-CivilWar -> This is the source code that we import the data into to do sentiment analysis. All of the results are in the notebook, and the report also includes documentation of them.
 
-Execution: 1)Import the above files 2)Give the dataset path to the sentiment-analysis-on-Syrian-CivilWar-reddit.ipynb, and start running the cells 3)The data can be freshly extracted using API script or you can use the data source file present in the submission.
-
-These codes were also available online in Kaggle in the following links: 
+First, import the aforementioned files. Second, Start the cells by providing the sentiment-analysis-on-Syrian-CivilWar-reddit.ipynb dataset URL. Third, the data source file included in the submission can be used, or you can use an API script to extract the data directly.
 
 Source codes : 
 https://www.kaggle.com/code/nikhileshgunnam/reddit-api-script/edit 
