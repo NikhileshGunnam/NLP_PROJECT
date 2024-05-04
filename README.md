@@ -11,8 +11,5 @@ The following is the name of the code files: 1) Reddit-api-script.ipynb, the sou
 
 First, import the aforementioned files. Second, Start the cells by providing the sentiment-analysis-on-Syrian-CivilWar-reddit.ipynb dataset URL. Third, the data source file included in the submission can be used, or you can use an API script to extract the data directly.
 
-Source codes : 
-https://www.kaggle.com/code/nikhileshgunnam/reddit-api-script/edit 
-https://www.kaggle.com/code/nikhileshgunnam/sentiment-analysis-on-syrian-civil-war-redditdata/edit
 
 Dataset: https://www.kaggle.com/datasets/nikhileshgunnam/syriancivilwar
